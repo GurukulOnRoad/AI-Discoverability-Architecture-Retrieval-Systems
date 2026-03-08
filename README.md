@@ -5,6 +5,33 @@
 
 ## 🟣 ADAR™ Home Page
 https://ai.gurukulonroad.com/p/ai-discoverability-retrieval-system.html
+### Research Participation & Collaboration
+GurukulAI Thought Lab has initiated an open applied research program titled **ADAR™ Research Cohort 2026**.
+
+As part of this study, **15 live websites** will be selected for structured deployment of the **AI Discoverability Architecture & Retrieval Systems™ (ADAR™) framework** in real digital environments.
+
+The cohort will be organized into **three research clusters**, with **5 websites in each cluster**:
+
+#### Cluster 1 - DIY Deployment  
+Participants implement the ADAR™ framework independently using the published manuals, documentation, and reference resources.
+
+#### Cluster 2 - Guided Deployment 
+Participants implement the framework with structured guidance, checkpoints, and architectural recommendations from the research team.
+
+#### Cluster 3 - Mentored & Supervised Deployment
+Participants receive **direct mentoring and supervised implementation of the ADAR™ architecture within their website infrastructure**. This cluster represents the **research replication of the highest-tier commercial deployment model**, where the full ADAR™ architecture is implemented under direct supervision of the GurukulAI Thought Lab research team.
+
+All deployments within the research cohort are conducted **without any charge**, subject to:
+
+- Research suitability assessment  
+- Slot availability (limited to 15 websites)  
+- Commitment to participate in the research process  
+- Agreement to share structured feedback and observational insights  
+
+The purpose of this cohort is to study how **machine-readable identity architecture, semantic graph coherence, structured data deployment, and retrieval confidence engineering** influence AI-mediated discoverability across real-world websites.
+
+**Apply for ADAR™ Research Cohort 2026:**  
+Application Form: https://ai.gurukulonroad.com/p/adar-deployment-application-form.html
 
 ## 🟣 Core Positioning
 
@@ -156,13 +183,13 @@ Infrastructure design for stable AI-readable presence.
 
 **Use case:** Planning deployment architecture for websites, entities, and knowledge assets.
 
-### Vol 3. Systems Layer
+### Vol 3. Systems Layer (Universal Systems Hub)
 **AI Retrieval Engineering Manual™**  
 Citation, compression, and confidence in AI retrieval systems.
 
 **Use case:** Designing content and structure for retrieval-ready business and commercial systems.
 
-### Vol 3.2. Narrative Systems
+#### Vol 3.2. Narrative Systems
 **Post-Life AI Narrative Control™ or Digital Legacy Marker™**  
 Machine memory, identity architecture, and narrative control.
 

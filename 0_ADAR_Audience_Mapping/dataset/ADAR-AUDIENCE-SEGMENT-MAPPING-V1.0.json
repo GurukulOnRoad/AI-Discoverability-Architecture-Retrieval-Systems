@@ -32,7 +32,7 @@
  {
  "@type": "DataDownload",
  "encodingFormat": "application/json",
- "contentUrl": "https://raw.githubusercontent.com/GurukulOnRoad/AI-Discoverability-Architecture-Retrieval-Systems/tree/main/0_ADAR_Audience_Mapping/dataset/ADAR-AUDIENCE-SEGMENT-MAPPING-V1.0.json"
+ "contentUrl": "https://raw.githubusercontent.com/GurukulOnRoad/AI-Discoverability-Architecture-Retrieval-Systems/main/0_ADAR_Audience_Mapping/dataset/ADAR-AUDIENCE-SEGMENT-MAPPING-V1.0.json"
  }
  ],
   "keywords": [

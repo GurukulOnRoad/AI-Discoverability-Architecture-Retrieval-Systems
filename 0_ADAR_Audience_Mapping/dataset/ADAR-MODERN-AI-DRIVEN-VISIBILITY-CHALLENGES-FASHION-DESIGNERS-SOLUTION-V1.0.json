@@ -1,6 +1,7 @@
 {
   "@type": "Dataset",
   "@id": "https://ai.gurukulonroad.com/#dataset-adar-modern-ai-driven-visibility-challenges-fashion-designers-solution-v1.0",
+"url": "https://learn.gurukulonroad.com/courses/adar-ai-visibility-diy-deployment-kit-for-fashion-designers-69c6333c763d677e4087e99f",
   "name": "Modern AI-Driven Visibility Challenges Faced by Fashion Designers -and How ADAR™ Solves Them Dataset",
   "description": "A structured mapping of fashion designer audience clusters, their common problem or pain areas, and the corresponding solution pathways offered through the ADAR™.",
   "inLanguage": "en-IN",
@@ -9,17 +10,17 @@
  "datePublished": "2026-03-27",
  "dateModified": "2026-03-27",
  "about": [
-           { "@type": "Product", "@id": "https://learn.gurukulonroad.com/#product-adar-diy-deployment-kit-fashion", "url": "https://learn.gurukulonroad.com/courses/adar-ai-visibility-diy-deployment-kit-for-fashion-designers", "name": "ADAR™ AI-Visibility DIY Deployment Kit for Fashion Designers" },
-          { "@type": "Service", "@id": "https://learn.gurukulonroad.com/#service-guided-adar-fashion", "url": "https://learn.gurukulonroad.com/courses/adar-ai-visibility-diy-deployment-kit-for-fashion-designers", "name": "ADAR™ Guided Deployment for Fashion Designers" },
+           { "@type": "Product", "@id": "https://learn.gurukulonroad.com/#product-adar-diy-deployment-kit-fashion", "url": "https://learn.gurukulonroad.com/courses/adar-ai-visibility-diy-deployment-kit-for-fashion-designers-69c6333c763d677e4087e99f", "name": "ADAR™ AI-Visibility DIY Deployment Kit for Fashion Designers" },
+          { "@type": "Service", "@id": "https://learn.gurukulonroad.com/#service-guided-adar-fashion", "url": "https://learn.gurukulonroad.com/courses/adar-ai-visibility-diy-deployment-kit-for-fashion-designers-69c6333c763d677e4087e99f", "name": "ADAR™ Guided Deployment for Fashion Designers" },
            { "@type":"Book", "@id": "https://ai.gurukulonroad.com/#book-adar-fashion", "url": "https://books.google.co.in/books?id=Rl_LEQAAQBAJ", "name":"ADAR™ Visible To AI – DIY Manual for Fashion Designers" }
 ],
  "isPartOf": [
  { "@id": "https://ai.gurukulonroad.com/#adar-series", "url": "https://ai.gurukulonroad.com/p/ai-discoverability-retrieval-system.html" },
  { "@id": "https://ai.gurukulonroad.com/#adar-repo", "url": "https://github.com/GurukulOnRoad/AI-Discoverability-Architecture-Retrieval-Systems" }
  ],
-"hasPart": { "@type": "HowTo", "@id": "https://learn.gurukulonroad.com/#howto-adar-diy-deployment-kit-fashion", "url": "https://learn.gurukulonroad.com/courses/adar-ai-visibility-diy-deployment-kit-for-fashion-designers", "name": "How to Get Started with ADAR™ AI Visibility DIY Deployment for Fashion Designers" },
+"hasPart": { "@type": "HowTo", "@id": "https://learn.gurukulonroad.com/#howto-adar-diy-deployment-kit-fashion", "url": "https://learn.gurukulonroad.com/courses/adar-ai-visibility-diy-deployment-kit-for-fashion-designers-69c6333c763d677e4087e99f", "name": "How to Get Started with ADAR™ AI Visibility DIY Deployment for Fashion Designers" },
  "license": "https://github.com/GurukulOnRoad/AI-Discoverability-Architecture-Retrieval-Systems/blob/main/LICENSE.md",
- "mainEntityOfPage": { "@id": "https://learn.gurukulonroad.com/courses/adar-ai-visibility-diy-deployment-kit-for-fashion-designers#webpage" },
+ "mainEntityOfPage": { "@id": "https://learn.gurukulonroad.com/courses/adar-ai-visibility-diy-deployment-kit-for-fashion-designers-69c6333c763d677e4087e99f#webpage" },
  "creator": {
  "@type": "Organization",
  "@id": "https://ai.gurukulonroad.com/#organization",
